@@ -16,9 +16,14 @@ Designed to help users find answers faster with better search and categories.
 Mobile-optimized app for support agents to manage tickets on-the-go.
 
 ### 📊 Analytics Dashboard
-**🔗 Live Prototype:** file:///home/nyaga/Downloads/SafariDesk%20-%20Analytics%20Dashboard.pdf
+**📄 Case Study PDF:** *Available upon request*
 
 Data dashboard for tracking support team performance and metrics.
+
+### 🌟 YDT Website Revamp
+**🔗 Live Prototype:** https://gravy-short-59438773.figma.site/
+
+Redesigned website for Youth Development Trust with improved user experience and modern interface.
 
 ---
 
@@ -29,21 +34,6 @@ Data dashboard for tracking support team performance and metrics.
 
 ## 📫 Contact
 **Email:** nyagajackton041@gmail.com
-**LinkedIn:** www.linkedin.com/in/jackton-nyaga-98697232a
+**LinkedIn:** https://www.linkedin.com/in/jackton-nyaga-98697232a
 
 *Open to UI/UX internship opportunities!*
-
-<!--
-**Jackton01/Jackton01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
